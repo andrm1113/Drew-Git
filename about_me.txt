@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Drew Miller, and I am a freshman at the University of Michigan. I plan to study Data Science in LSA with potential minors in Political Science and Spanish. I am from northern New Jersey, about an hour and a half outside of New York City. I'm a big sports fan and I follow the Mets, Jets and Knicks. A fun fact about me is that I once threw out the first pitch at a Mets game, which I think is really cool.
